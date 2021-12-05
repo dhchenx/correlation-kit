@@ -1,3 +1,32 @@
+Metadata-Version: 2.1
+Name: correlation-kit
+Version: 1.0.0.dev2
+Summary: A toolkit for estimating the correlation between variables
+Home-page: https://github.com/dhchenx/correlation-kit
+Author: Donghua Chen
+Author-email: douglaschan@126.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/dhchenx/correlation-kit/issues
+Project-URL: Say Thanks!, https://github.com/aishoot/correlation-kit
+Project-URL: Source, https://github.com/dhchenx/correlation-kit
+Keywords: correlation analysis,relation mining
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: test
+License-File: LICENSE.txt
+
 # Correlation Kit
 
 A toolkit for estimating the correlation values between variables
@@ -79,4 +108,6 @@ print('p: ',p)
 
 ## License
 The `Correlation-Kit` project is provided by [Donghua Chen](https://github.com/dhchenx). 
+
+
 
